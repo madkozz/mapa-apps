@@ -7,7 +7,6 @@
   <eAnnotations xmi:id="_dOkkMUYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragments">
     <references xmi:type="uml:Package" href="Canales1.efx#_344iYEVKEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Canales?"/>
     <references xmi:type="uml:Package" href="Administración%20de%20Productos1.efx#_BakekEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Administración%20de%20Productos?"/>
-    <references xmi:type="uml:Package" href="Financieros/Contabilidad1.efx#_DJfegEVMEeeApZrQOYJXmw"/>
     <references xmi:type="uml:Package" href="Gestión%20de%20Riego,%20Fraude%20y%20Auditoría1.efx#_E_tZQEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20de%20Riego,%20Fraude%20y%20Auditoría?"/>
     <references xmi:type="uml:Package" href="Gestión%20y%20Cumplimiento%20Regulatorio1.efx#_I1k3kEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20y%20Cumplimiento%20Regulatorio?"/>
     <references xmi:type="uml:Package" href="Pagos1.efx#_LKdrUEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Pagos?"/>
@@ -64,7 +63,7 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_95rnP0VKEeeApZrQOYJXmw" type="Description"/>
             <styles xmi:type="notation:TextStyle" xmi:id="_95rnO0VKEeeApZrQOYJXmw"/>
             <styles xmi:type="notation:LineTypeStyle" xmi:id="_95rnPEVKEeeApZrQOYJXmw"/>
-            <element xmi:type="umlnotation:UMLDiagram" href="Canales1.efx#_UCSs0EU6EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Canales/Diagrama%20SC03%20-%20AutoSrv%2FPOS?"/>
+            <element xmi:type="umlnotation:UMLDiagram" href="Canales1.efx#_UCSs0EU6EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Canales/Diagrama%20SC03%20-%20AutoSrvPOS?"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_95rnPUVKEeeApZrQOYJXmw" x="192" y="2988"/>
           </children>
           <children xmi:type="notation:Shape" xmi:id="_95rnQUVKEeeApZrQOYJXmw" type="Note" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1">
