@@ -13,7 +13,6 @@
     <references xmi:type="uml:Package" href="Datos.efx#_2gqTkEU8EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/Artefactos/Datos?"/>
     <references xmi:type="uml:Package" href="Clientes.efx#_XcbxEEU9EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/Artefactos/Clientes?"/>
     <references xmi:type="uml:Package" href="Locations.efx#_R4PDsEV0EeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/Artefactos/Locations?"/>
-    <references xmi:type="uml:Package" href="Tier.efx#_-U2SYEbNEeeehPjIj_lyaQ?Mapa%20de%20Aplicaciones/Artefactos/Tier?"/>
   </eAnnotations>
   <eAnnotations xmi:id="_eSll8EYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragmentContainer">
     <references xmi:type="uml:Model" href="MapaAplicaciones.emx#_I8R4wkTZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones?"/>
@@ -67,5 +66,11 @@
   <packagedElement xmi:type="uml:Package" href="Datos.efx#_2gqTkEU8EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/Artefactos/Datos?"/>
   <packagedElement xmi:type="uml:Package" href="Clientes.efx#_XcbxEEU9EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/Artefactos/Clientes?"/>
   <packagedElement xmi:type="uml:Package" href="Locations.efx#_R4PDsEV0EeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/Artefactos/Locations?"/>
-  <packagedElement xmi:type="uml:Package" href="Tier.efx#_-U2SYEbNEeeehPjIj_lyaQ?Mapa%20de%20Aplicaciones/Artefactos/Tier?"/>
+  <packagedElement xmi:type="uml:Package" xmi:id="_Pwi7IEb4EeeK9Lx_Zfs1oQ" name="Tier">
+    <eAnnotations xmi:id="_Pw_nEEb4EeeK9Lx_Zfs1oQ" source="uml2.diagrams" references="_Pw_nEUb4EeeK9Lx_Zfs1oQ">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Pw_nEUb4EeeK9Lx_Zfs1oQ" type="Freeform" name="Main">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+  </packagedElement>
 </uml:Package>
