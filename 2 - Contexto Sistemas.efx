@@ -7,14 +7,13 @@
   <eAnnotations xmi:id="_dOkkMUYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragments">
     <references xmi:type="uml:Package" href="Canales1.efx#_344iYEVKEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Canales?"/>
     <references xmi:type="uml:Package" href="Administración%20de%20Productos1.efx#_BakekEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Administración%20de%20Productos?"/>
-    <references xmi:type="uml:Package" href="Gestión%20de%20Riego,%20Fraude%20y%20Auditoría1.efx#_E_tZQEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20de%20Riego,%20Fraude%20y%20Auditoría?"/>
-    <references xmi:type="uml:Package" href="Gestión%20y%20Cumplimiento%20Regulatorio1.efx#_I1k3kEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20y%20Cumplimiento%20Regulatorio?"/>
     <references xmi:type="uml:Package" href="Pagos1.efx#_LKdrUEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Pagos?"/>
     <references xmi:type="uml:Package" href="Servicios%20de%20Soporte1.efx#_MGw7gEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Servicios%20de%20Soporte?"/>
     <references xmi:type="uml:Package" href="Servicios%20de%20Soporte%20TI1.efx#_O360gEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Servicios%20de%20Soporte%20TI?"/>
     <references xmi:type="uml:Package" href="Servicios%20Externos1.efx#_S6B_EEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Servicios%20Externos?"/>
-    <references xmi:type="uml:Package" href="Ventas%20y%20Gestión%20de%20Clientes1.efx#_U9sf8EVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Ventas%20y%20Gestión%20de%20Clientes?"/>
     <references xmi:type="uml:Package" href="Financieros-Contabilidad.efx#_V0ONUEYSEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Financieros-Contabilidad?"/>
+    <references xmi:type="uml:Package" href="Gestion%20de%20Riesgo,%20Fraude%20y%20Auditoria.efx#_MG_ZgEcDEeedRPr8FUpc3w?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestion%20de%20Riesgo,%20Fraude%20y%20Auditoria?"/>
+    <references xmi:type="uml:Package" href="Ventas%20y%20Gestion%20de%20Clientes.efx#_HgyDYEcDEeedRPr8FUpc3w?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Ventas%20y%20Gestion%20de%20Clientes?"/>
   </eAnnotations>
   <eAnnotations xmi:id="_dOkkMEYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragmentContainer">
     <references xmi:type="uml:Model" href="MapaAplicaciones.emx#_I8R4wkTZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones?"/>
@@ -88,120 +87,6 @@
         <element xmi:type="uml:Package" href="Canales1.efx#_344iYEVKEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Canales?"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8u1ksUVKEeeApZrQOYJXmw" x="1016" y="2159" width="10113" height="5689"/>
       </children>
-      <children xmi:type="umlnotation:UMLShape" xmi:id="_pmizQEVMEeeApZrQOYJXmw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-        <children xmi:type="notation:DecorationNode" xmi:id="_pmizQkVMEeeApZrQOYJXmw" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_pmizQ0VMEeeApZrQOYJXmw" width="1320" height="1320"/>
-        </children>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_pmizREVMEeeApZrQOYJXmw" type="Stereotype"/>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_pmizRUVMEeeApZrQOYJXmw" type="Name"/>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_pmizRkVMEeeApZrQOYJXmw" type="Parent"/>
-        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_pmizR0VMEeeApZrQOYJXmw" type="PackageContents" canonical="false">
-          <children xmi:type="notation:Shape" xmi:id="_TWQyoEVNEeeApZrQOYJXmw" type="Note" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1">
-            <eAnnotations xmi:id="_TWQypkVNEeeApZrQOYJXmw" source="DiagramLink"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TWQypEVNEeeApZrQOYJXmw" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TWQypUVNEeeApZrQOYJXmw" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_TWQyoUVNEeeApZrQOYJXmw"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_TWQyokVNEeeApZrQOYJXmw"/>
-            <element xmi:type="umlnotation:UMLDiagram" href="Ventas%20y%20Gestión%20de%20Clientes1.efx#_4OKj8EVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Ventas%20y%20Gestión%20de%20Clientes/Diagrama%20SC06%20-%20C&amp;I%20banking?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TWQyo0VNEeeApZrQOYJXmw" x="65" y="194"/>
-          </children>
-          <children xmi:type="notation:Shape" xmi:id="_TWQyp0VNEeeApZrQOYJXmw" type="Note" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1">
-            <eAnnotations xmi:id="_TWQyrUVNEeeApZrQOYJXmw" source="DiagramLink"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TWQyq0VNEeeApZrQOYJXmw" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TWQyrEVNEeeApZrQOYJXmw" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_TWQyqEVNEeeApZrQOYJXmw"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_TWQyqUVNEeeApZrQOYJXmw"/>
-            <element xmi:type="umlnotation:UMLDiagram" href="Ventas%20y%20Gestión%20de%20Clientes1.efx#_E438AEVNEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Ventas%20y%20Gestión%20de%20Clientes/Diagrama%20SC07%20-%20Sucursales%20Bci?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TWQyqkVNEeeApZrQOYJXmw" x="4974" y="194"/>
-          </children>
-          <children xmi:type="notation:Shape" xmi:id="_TWQyrkVNEeeApZrQOYJXmw" type="Note" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1">
-            <eAnnotations xmi:id="_TWajokVNEeeApZrQOYJXmw" source="DiagramLink"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TWajoEVNEeeApZrQOYJXmw" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TWajoUVNEeeApZrQOYJXmw" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_TWQyr0VNEeeApZrQOYJXmw"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_TWQysEVNEeeApZrQOYJXmw"/>
-            <element xmi:type="umlnotation:UMLDiagram" href="Ventas%20y%20Gestión%20de%20Clientes1.efx#_HgfegEVNEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Ventas%20y%20Gestión%20de%20Clientes/Diagrama%20SC08%20-%20Sucursales%20Nova?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TWQysUVNEeeApZrQOYJXmw" x="10308" y="194"/>
-          </children>
-          <children xmi:type="notation:Shape" xmi:id="_TWajo0VNEeeApZrQOYJXmw" type="Note" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1">
-            <eAnnotations xmi:id="_TWajqUVNEeeApZrQOYJXmw" source="DiagramLink"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TWajp0VNEeeApZrQOYJXmw" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TWajqEVNEeeApZrQOYJXmw" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_TWajpEVNEeeApZrQOYJXmw"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_TWajpUVNEeeApZrQOYJXmw"/>
-            <element xmi:type="umlnotation:UMLDiagram" href="Ventas%20y%20Gestión%20de%20Clientes1.efx#_KPATMEVNEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Ventas%20y%20Gestión%20de%20Clientes/Diagrama%20SC09%20-%20CIF?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TWajpkVNEeeApZrQOYJXmw" x="21" y="1591"/>
-          </children>
-          <children xmi:type="notation:Shape" xmi:id="_TWajqkVNEeeApZrQOYJXmw" type="Note" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1">
-            <eAnnotations xmi:id="_TWajsEVNEeeApZrQOYJXmw" source="DiagramLink"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TWajrkVNEeeApZrQOYJXmw" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TWajr0VNEeeApZrQOYJXmw" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_TWajq0VNEeeApZrQOYJXmw"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_TWajrEVNEeeApZrQOYJXmw"/>
-            <element xmi:type="umlnotation:UMLDiagram" href="Ventas%20y%20Gestión%20de%20Clientes1.efx#_M60ZMEVNEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Ventas%20y%20Gestión%20de%20Clientes/Diagrama%20SC10%20-%20Ventas-CRM?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TWajrUVNEeeApZrQOYJXmw" x="4930" y="1591"/>
-          </children>
-        </children>
-        <element xmi:type="uml:Package" href="Ventas%20y%20Gestión%20de%20Clientes1.efx#_U9sf8EVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Ventas%20y%20Gestión%20de%20Clientes?"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pmizQUVMEeeApZrQOYJXmw" x="11728" y="2159" width="16464" height="5689"/>
-      </children>
-      <children xmi:type="umlnotation:UMLShape" xmi:id="_fgEbEEVjEeeApZrQOYJXmw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-        <children xmi:type="notation:DecorationNode" xmi:id="_fgEbEkVjEeeApZrQOYJXmw" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_fgEbE0VjEeeApZrQOYJXmw" width="1320" height="1320"/>
-        </children>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_fgEbFEVjEeeApZrQOYJXmw" type="Stereotype"/>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_fgEbFUVjEeeApZrQOYJXmw" type="Name"/>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_fgEbFkVjEeeApZrQOYJXmw" type="Parent"/>
-        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_fgEbF0VjEeeApZrQOYJXmw" type="PackageContents" canonical="false">
-          <children xmi:type="notation:Shape" xmi:id="_m09vkEVkEeeApZrQOYJXmw" type="Note" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1">
-            <eAnnotations xmi:id="_m09vlkVkEeeApZrQOYJXmw" source="DiagramLink"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_m09vlEVkEeeApZrQOYJXmw" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_m09vlUVkEeeApZrQOYJXmw" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_m09vkUVkEeeApZrQOYJXmw"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_m09vkkVkEeeApZrQOYJXmw"/>
-            <element xmi:type="umlnotation:UMLDiagram" href="Gestión%20de%20Riego,%20Fraude%20y%20Auditoría1.efx#_OTSJgEVkEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20de%20Riego,%20Fraude%20y%20Auditoría/Diagrama%20SC14%20-%20Riesgo%20de%20Crédito?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_m09vk0VkEeeApZrQOYJXmw" x="3" y="261"/>
-          </children>
-          <children xmi:type="notation:Shape" xmi:id="_m09vl0VkEeeApZrQOYJXmw" type="Note" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1">
-            <eAnnotations xmi:id="_m1HgkkVkEeeApZrQOYJXmw" source="DiagramLink"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_m1HgkEVkEeeApZrQOYJXmw" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_m1HgkUVkEeeApZrQOYJXmw" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_m09vmEVkEeeApZrQOYJXmw"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_m09vmUVkEeeApZrQOYJXmw"/>
-            <element xmi:type="umlnotation:UMLDiagram" href="Gestión%20de%20Riego,%20Fraude%20y%20Auditoría1.efx#_Os15AEVkEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20de%20Riego,%20Fraude%20y%20Auditoría/Diagrama%20SC15%20-%20Riesgo%20Operacional?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_m09vmkVkEeeApZrQOYJXmw" x="6480" y="321"/>
-          </children>
-          <children xmi:type="notation:Shape" xmi:id="_m1Hgk0VkEeeApZrQOYJXmw" type="Note" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1">
-            <eAnnotations xmi:id="_m1HgmUVkEeeApZrQOYJXmw" source="DiagramLink"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_m1Hgl0VkEeeApZrQOYJXmw" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_m1HgmEVkEeeApZrQOYJXmw" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_m1HglEVkEeeApZrQOYJXmw"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_m1HglUVkEeeApZrQOYJXmw"/>
-            <element xmi:type="umlnotation:UMLDiagram" href="Gestión%20de%20Riego,%20Fraude%20y%20Auditoría1.efx#_ObVSQEVkEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20de%20Riego,%20Fraude%20y%20Auditoría/Diagrama%20SC16%20-%20Gestión%20de%20Fraude?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_m1HglkVkEeeApZrQOYJXmw" x="3" y="1591"/>
-          </children>
-          <children xmi:type="notation:Shape" xmi:id="_m1HgmkVkEeeApZrQOYJXmw" type="Note" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1">
-            <eAnnotations xmi:id="_m1HgoEVkEeeApZrQOYJXmw" source="DiagramLink"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_m1HgnkVkEeeApZrQOYJXmw" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_m1Hgn0VkEeeApZrQOYJXmw" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_m1Hgm0VkEeeApZrQOYJXmw"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_m1HgnEVkEeeApZrQOYJXmw"/>
-            <element xmi:type="umlnotation:UMLDiagram" href="Gestión%20de%20Riego,%20Fraude%20y%20Auditoría1.efx#_OfpxkEVkEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20de%20Riego,%20Fraude%20y%20Auditoría/Diagrama%20SC17%20-%20Riesgo%20Financiero?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_m1HgnUVkEeeApZrQOYJXmw" x="6480" y="1531"/>
-          </children>
-          <children xmi:type="notation:Shape" xmi:id="_m1HgoUVkEeeApZrQOYJXmw" type="Note" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1">
-            <eAnnotations xmi:id="_m1Hgp0VkEeeApZrQOYJXmw" source="DiagramLink"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_m1HgpUVkEeeApZrQOYJXmw" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_m1HgpkVkEeeApZrQOYJXmw" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_m1HgokVkEeeApZrQOYJXmw"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_m1Hgo0VkEeeApZrQOYJXmw"/>
-            <element xmi:type="umlnotation:UMLDiagram" href="Gestión%20de%20Riego,%20Fraude%20y%20Auditoría1.efx#_NOIfUEVkEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20de%20Riego,%20Fraude%20y%20Auditoría/Diagrama%20SC18%20-%20Auditoría?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_m1HgpEVkEeeApZrQOYJXmw" x="68" y="2734" height="1289"/>
-          </children>
-        </children>
-        <element xmi:type="uml:Package" href="Gestión%20de%20Riego,%20Fraude%20y%20Auditoría1.efx#_E_tZQEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20de%20Riego,%20Fraude%20y%20Auditoría?"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fgEbEUVjEeeApZrQOYJXmw" x="7620" y="8255" width="12908" height="5308"/>
-      </children>
       <children xmi:type="umlnotation:UMLShape" xmi:id="_hbmToEVjEeeApZrQOYJXmw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
         <children xmi:type="notation:DecorationNode" xmi:id="_hbmTokVjEeeApZrQOYJXmw" type="ImageCompartment">
           <layoutConstraint xmi:type="notation:Size" xmi:id="_hbmTo0VjEeeApZrQOYJXmw" width="1320" height="1320"/>
@@ -273,54 +158,6 @@
         <styles xmi:type="notation:LineTypeStyle" xmi:id="_D0RZckYTEeeFnajgXlaqvg"/>
         <element xsi:nil="true"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_D0RZc0YTEeeFnajgXlaqvg" x="2540" y="1524" width="23876" height="127"/>
-      </children>
-      <children xmi:type="umlnotation:UMLShape" xmi:id="_FjuVIEYkEeeFnajgXlaqvg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-        <children xmi:type="notation:DecorationNode" xmi:id="_FjuVIkYkEeeFnajgXlaqvg" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_FjuVI0YkEeeFnajgXlaqvg" width="1320" height="1320"/>
-        </children>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_FjuVJEYkEeeFnajgXlaqvg" type="Stereotype"/>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_FjuVJUYkEeeFnajgXlaqvg" type="Name"/>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_FjuVJkYkEeeFnajgXlaqvg" type="Parent"/>
-        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_FjuVJ0YkEeeFnajgXlaqvg" type="PackageContents" canonical="false">
-          <children xmi:type="notation:Shape" xmi:id="_lwuBEEYkEeeFnajgXlaqvg" type="Note" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1">
-            <eAnnotations xmi:id="_lwuBFkYkEeeFnajgXlaqvg" source="DiagramLink"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_lwuBFEYkEeeFnajgXlaqvg" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_lwuBFUYkEeeFnajgXlaqvg" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_lwuBEUYkEeeFnajgXlaqvg"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_lwuBEkYkEeeFnajgXlaqvg"/>
-            <element xmi:type="umlnotation:UMLDiagram" href="Gestión%20y%20Cumplimiento%20Regulatorio1.efx#_P7axcEYTEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20y%20Cumplimiento%20Regulatorio/Diagrama%20SC19%20-%20DataMarts?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lwuBE0YkEeeFnajgXlaqvg" x="65" y="7"/>
-          </children>
-          <children xmi:type="notation:Shape" xmi:id="_lwuBF0YkEeeFnajgXlaqvg" type="Note" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1">
-            <eAnnotations xmi:id="_lwuBHUYkEeeFnajgXlaqvg" source="DiagramLink"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_lwuBG0YkEeeFnajgXlaqvg" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_lwuBHEYkEeeFnajgXlaqvg" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_lwuBGEYkEeeFnajgXlaqvg"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_lwuBGUYkEeeFnajgXlaqvg"/>
-            <element xmi:type="umlnotation:UMLDiagram" href="Gestión%20y%20Cumplimiento%20Regulatorio1.efx#_Qm9BwEYTEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20y%20Cumplimiento%20Regulatorio/Diagrama%20SC21%20-%20MIS?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lwuBGkYkEeeFnajgXlaqvg" x="65" y="1845"/>
-          </children>
-          <children xmi:type="notation:Shape" xmi:id="_lwuBJUYkEeeFnajgXlaqvg" type="Note" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1">
-            <eAnnotations xmi:id="_lwuBK0YkEeeFnajgXlaqvg" source="DiagramLink"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_lwuBKUYkEeeFnajgXlaqvg" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_lwuBKkYkEeeFnajgXlaqvg" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_lwuBJkYkEeeFnajgXlaqvg"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_lwuBJ0YkEeeFnajgXlaqvg"/>
-            <element xmi:type="umlnotation:UMLDiagram" href="Gestión%20y%20Cumplimiento%20Regulatorio1.efx#_I1uBgUVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20y%20Cumplimiento%20Regulatorio/Diagrama%20SC22%20-%20Cumplimiento?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lwuBKEYkEeeFnajgXlaqvg" x="5653" y="1845"/>
-          </children>
-          <children xmi:type="notation:Shape" xmi:id="_3u2akEYkEeeFnajgXlaqvg" type="Note" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1">
-            <eAnnotations xmi:id="_3u2alkYkEeeFnajgXlaqvg" source="DiagramLink"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_3u2alEYkEeeFnajgXlaqvg" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_3u2alUYkEeeFnajgXlaqvg" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_3u2akUYkEeeFnajgXlaqvg"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_3u2akkYkEeeFnajgXlaqvg"/>
-            <element xmi:type="umlnotation:UMLDiagram" href="Gestión%20y%20Cumplimiento%20Regulatorio1.efx#_RLUTEEYTEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20y%20Cumplimiento%20Regulatorio/Diagrama%20SC20%20-%20Externos%20Reguladores?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3u2ak0YkEeeFnajgXlaqvg" x="5651" y="67"/>
-          </children>
-        </children>
-        <element xmi:type="uml:Package" href="Gestión%20y%20Cumplimiento%20Regulatorio1.efx#_I1k3kEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20y%20Cumplimiento%20Regulatorio?"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FjuVIUYkEeeFnajgXlaqvg" x="1016" y="13970" width="13416" height="4546"/>
       </children>
       <children xmi:type="umlnotation:UMLShape" xmi:id="_HZBC0EYkEeeFnajgXlaqvg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
         <children xmi:type="notation:DecorationNode" xmi:id="_HZBC0kYkEeeFnajgXlaqvg" type="ImageCompartment">
@@ -489,12 +326,30 @@
   </eAnnotations>
   <packagedElement xmi:type="uml:Package" href="Canales1.efx#_344iYEVKEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Canales?"/>
   <packagedElement xmi:type="uml:Package" href="Administración%20de%20Productos1.efx#_BakekEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Administración%20de%20Productos?"/>
-  <packagedElement xmi:type="uml:Package" href="Gestión%20de%20Riego,%20Fraude%20y%20Auditoría1.efx#_E_tZQEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20de%20Riego,%20Fraude%20y%20Auditoría?"/>
-  <packagedElement xmi:type="uml:Package" href="Gestión%20y%20Cumplimiento%20Regulatorio1.efx#_I1k3kEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestión%20y%20Cumplimiento%20Regulatorio?"/>
   <packagedElement xmi:type="uml:Package" href="Pagos1.efx#_LKdrUEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Pagos?"/>
   <packagedElement xmi:type="uml:Package" href="Servicios%20de%20Soporte1.efx#_MGw7gEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Servicios%20de%20Soporte?"/>
   <packagedElement xmi:type="uml:Package" href="Servicios%20de%20Soporte%20TI1.efx#_O360gEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Servicios%20de%20Soporte%20TI?"/>
   <packagedElement xmi:type="uml:Package" href="Servicios%20Externos1.efx#_S6B_EEVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Servicios%20Externos?"/>
-  <packagedElement xmi:type="uml:Package" href="Ventas%20y%20Gestión%20de%20Clientes1.efx#_U9sf8EVMEeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Ventas%20y%20Gestión%20de%20Clientes?"/>
   <packagedElement xmi:type="uml:Package" href="Financieros-Contabilidad.efx#_V0ONUEYSEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Financieros-Contabilidad?"/>
+  <packagedElement xmi:type="uml:Package" href="Ventas%20y%20Gestion%20de%20Clientes.efx#_HgyDYEcDEeedRPr8FUpc3w?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Ventas%20y%20Gestion%20de%20Clientes?"/>
+  <packagedElement xmi:type="uml:Package" href="Gestion%20de%20Riesgo,%20Fraude%20y%20Auditoria.efx#_MG_ZgEcDEeedRPr8FUpc3w?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestion%20de%20Riesgo,%20Fraude%20y%20Auditoria?"/>
+  <packagedElement xmi:type="uml:Package" xmi:id="_hp-Z0EcDEeedRPr8FUpc3w" name="Gestion y Cumplimiento Regulatorio">
+    <eAnnotations xmi:id="_hp-Z0UcDEeedRPr8FUpc3w" source="uml2.diagrams" references="_hp-Z0kcDEeedRPr8FUpc3w">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_hp-Z0kcDEeedRPr8FUpc3w" type="Freeform" name="Main">
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_P7axcEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC19 - DataMarts">
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_RLUTEEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC20 - Externos Reguladores">
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Qm9BwEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC21 - MIS">
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_I1uBgUVMEeeApZrQOYJXmw" type="Freeform" name="Diagrama SC22 - Cumplimiento">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+  </packagedElement>
 </uml:Package>
