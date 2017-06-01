@@ -22,6 +22,23 @@
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_AsEJCEYsEeeFnajgXlaqvg" type="CommentBody"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AsEJAkYsEeeFnajgXlaqvg"/>
         </children>
+        <children xmi:type="umlnotation:UMLComponent" xmi:id="_MhFRUEb_EeedRPr8FUpc3w" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+          <children xmi:type="notation:DecorationNode" xmi:id="_MhPCUEb_EeedRPr8FUpc3w" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_MhPCUUb_EeedRPr8FUpc3w" width="1320" height="1320"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_MhPCUkb_EeedRPr8FUpc3w" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_MhPCU0b_EeedRPr8FUpc3w" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_MhPCVEb_EeedRPr8FUpc3w" type="Name"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_MhPCVUb_EeedRPr8FUpc3w" type="Parent"/>
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_MhPCVkb_EeedRPr8FUpc3w" visible="false" type="AttributeCompartment"/>
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_MhPCV0b_EeedRPr8FUpc3w" visible="false" type="OperationCompartment"/>
+          <children xmi:type="notation:ListCompartment" xmi:id="_MhPCWEb_EeedRPr8FUpc3w" visible="false" type="RealizationListCompartment"/>
+          <children xmi:type="notation:ListCompartment" xmi:id="_MhPCWUb_EeedRPr8FUpc3w" type="RequiredInterfaceListCompartment"/>
+          <children xmi:type="notation:ListCompartment" xmi:id="_MhPCWkb_EeedRPr8FUpc3w" type="ProvidedInterfaceListCompartment"/>
+          <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_MhPCW0b_EeedRPr8FUpc3w" visible="false" type="StructureCompartment"/>
+          <element xmi:type="uml:Component" href="Legacy.efx#_FEyrYEU9EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/Artefactos/Legacy/Sybase?"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MhFRUUb_EeedRPr8FUpc3w" x="5947" y="10202"/>
+        </children>
         <element xsi:nil="true"/>
       </contents>
       <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_P7axcEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC19 - DataMarts">

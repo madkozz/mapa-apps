@@ -9,7 +9,6 @@
     <references xmi:type="uml:Package" href="IVR.efx#_C0jaoETbEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/IVR?"/>
     <references xmi:type="uml:Package" href="App%20Moviles.efx#_9ZeSAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/App%20Moviles?"/>
     <references xmi:type="uml:Package" href="Empresas.efx#_2e0NAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/Empresas?"/>
-    <references xmi:type="uml:Package" href="AutoSrv%20POS.efx#_RpTYIEYqEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/AutoSrv%20POS?"/>
   </eAnnotations>
   <eAnnotations xmi:id="_eLSrIEYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragmentContainer">
     <references xmi:type="uml:Package" href="Dominios.efx#_se-VMETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios?"/>
@@ -67,17 +66,6 @@
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_YTJJh0TjEeeAoKRw5SPXXA" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
             <element xmi:type="uml:Package" href="Empresas.efx#_2e0NAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/Empresas?"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YTJJgUTjEeeAoKRw5SPXXA" x="192" y="3010" width="3637" height="2133"/>
-          </children>
-          <children xmi:type="umlnotation:UMLShape" xmi:id="_ahL-0EYqEeeFnajgXlaqvg" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" gradient="15912618, 16777215, 0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-            <children xmi:type="notation:DecorationNode" xmi:id="_ahL-0kYqEeeFnajgXlaqvg" type="ImageCompartment">
-              <layoutConstraint xmi:type="notation:Size" xmi:id="_ahL-00YqEeeFnajgXlaqvg" width="1320" height="1320"/>
-            </children>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_ahL-1EYqEeeFnajgXlaqvg" type="Stereotype"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_ahL-1UYqEeeFnajgXlaqvg" type="Name"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_ahL-1kYqEeeFnajgXlaqvg" type="Parent"/>
-            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_ahL-10YqEeeFnajgXlaqvg" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
-            <element xmi:type="uml:Package" href="AutoSrv%20POS.efx#_RpTYIEYqEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/AutoSrv%20POS?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ahL-0UYqEeeFnajgXlaqvg" x="8320" y="470" width="3637" height="2005"/>
           </children>
         </children>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KtRJsUTjEeeAoKRw5SPXXA" x="1143" y="1143" width="12526" height="6958"/>
