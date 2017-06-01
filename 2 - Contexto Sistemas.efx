@@ -14,6 +14,7 @@
     <references xmi:type="uml:Package" href="Financieros-Contabilidad.efx#_V0ONUEYSEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Financieros-Contabilidad?"/>
     <references xmi:type="uml:Package" href="Gestion%20de%20Riesgo,%20Fraude%20y%20Auditoria.efx#_MG_ZgEcDEeedRPr8FUpc3w?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestion%20de%20Riesgo,%20Fraude%20y%20Auditoria?"/>
     <references xmi:type="uml:Package" href="Ventas%20y%20Gestion%20de%20Clientes.efx#_HgyDYEcDEeedRPr8FUpc3w?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Ventas%20y%20Gestion%20de%20Clientes?"/>
+    <references xmi:type="uml:Package" href="Gestion%20y%20Cumplimiento%20Regulatorio.efx#_hp-Z0EcDEeedRPr8FUpc3w?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestion%20y%20Cumplimiento%20Regulatorio?"/>
   </eAnnotations>
   <eAnnotations xmi:id="_dOkkMEYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragmentContainer">
     <references xmi:type="uml:Model" href="MapaAplicaciones.emx#_I8R4wkTZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones?"/>
@@ -333,23 +334,5 @@
   <packagedElement xmi:type="uml:Package" href="Financieros-Contabilidad.efx#_V0ONUEYSEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Financieros-Contabilidad?"/>
   <packagedElement xmi:type="uml:Package" href="Ventas%20y%20Gestion%20de%20Clientes.efx#_HgyDYEcDEeedRPr8FUpc3w?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Ventas%20y%20Gestion%20de%20Clientes?"/>
   <packagedElement xmi:type="uml:Package" href="Gestion%20de%20Riesgo,%20Fraude%20y%20Auditoria.efx#_MG_ZgEcDEeedRPr8FUpc3w?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestion%20de%20Riesgo,%20Fraude%20y%20Auditoria?"/>
-  <packagedElement xmi:type="uml:Package" xmi:id="_hp-Z0EcDEeedRPr8FUpc3w" name="Gestion y Cumplimiento Regulatorio">
-    <eAnnotations xmi:id="_hp-Z0UcDEeedRPr8FUpc3w" source="uml2.diagrams" references="_hp-Z0kcDEeedRPr8FUpc3w">
-      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_hp-Z0kcDEeedRPr8FUpc3w" type="Freeform" name="Main">
-        <element xsi:nil="true"/>
-      </contents>
-      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_P7axcEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC19 - DataMarts">
-        <element xsi:nil="true"/>
-      </contents>
-      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_RLUTEEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC20 - Externos Reguladores">
-        <element xsi:nil="true"/>
-      </contents>
-      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Qm9BwEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC21 - MIS">
-        <element xsi:nil="true"/>
-      </contents>
-      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_I1uBgUVMEeeApZrQOYJXmw" type="Freeform" name="Diagrama SC22 - Cumplimiento">
-        <element xsi:nil="true"/>
-      </contents>
-    </eAnnotations>
-  </packagedElement>
+  <packagedElement xmi:type="uml:Package" href="Gestion%20y%20Cumplimiento%20Regulatorio.efx#_hp-Z0EcDEeedRPr8FUpc3w?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas/Gestion%20y%20Cumplimiento%20Regulatorio?"/>
 </uml:Package>

@@ -6,10 +6,7 @@
 <uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_se-VMETZEeeAoKRw5SPXXA" name="Dominios">
   <eAnnotations xmi:id="_eNrQwUYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragments">
     <references xmi:type="uml:Package" href="Canales.efx#_aQCDEETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales?"/>
-    <references xmi:type="uml:Package" href="Ventas%20y%20Gestión%20de%20Clientes.efx#_b0F20ETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Ventas%20y%20Gestión%20de%20Clientes?"/>
-    <references xmi:type="uml:Package" href="Gestión%20de%20Riesgo,%20Fraude%20y%20Auditoría.efx#_FeOrQETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Gestión%20de%20Riesgo,%20Fraude%20y%20Auditoría?"/>
     <references xmi:type="uml:Package" href="Pagos.efx#_LTZu4ETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Pagos?"/>
-    <references xmi:type="uml:Package" href="Gestión%20y%20Cumplimiento%20Regulatorio.efx#_TqUWgETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Gestión%20y%20Cumplimiento%20Regulatorio?"/>
     <references xmi:type="uml:Package" href="Servicios%20de%20Soporte.efx#_YSO80ETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Servicios%20de%20Soporte?"/>
     <references xmi:type="uml:Package" href="Administración%20de%20Productos.efx#_Zz2gkETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Administración%20de%20Productos?"/>
     <references xmi:type="uml:Package" href="Servicios%20de%20Soporte%20TI.efx#_doi6METeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Servicios%20de%20Soporte%20TI?"/>
@@ -25,10 +22,7 @@
     </contents>
   </eAnnotations>
   <packagedElement xmi:type="uml:Package" href="Canales.efx#_aQCDEETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales?"/>
-  <packagedElement xmi:type="uml:Package" href="Ventas%20y%20Gestión%20de%20Clientes.efx#_b0F20ETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Ventas%20y%20Gestión%20de%20Clientes?"/>
-  <packagedElement xmi:type="uml:Package" href="Gestión%20de%20Riesgo,%20Fraude%20y%20Auditoría.efx#_FeOrQETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Gestión%20de%20Riesgo,%20Fraude%20y%20Auditoría?"/>
   <packagedElement xmi:type="uml:Package" href="Pagos.efx#_LTZu4ETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Pagos?"/>
-  <packagedElement xmi:type="uml:Package" href="Gestión%20y%20Cumplimiento%20Regulatorio.efx#_TqUWgETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Gestión%20y%20Cumplimiento%20Regulatorio?"/>
   <packagedElement xmi:type="uml:Package" href="Servicios%20de%20Soporte.efx#_YSO80ETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Servicios%20de%20Soporte?"/>
   <packagedElement xmi:type="uml:Package" href="Administración%20de%20Productos.efx#_Zz2gkETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Administración%20de%20Productos?"/>
   <packagedElement xmi:type="uml:Package" href="Servicios%20de%20Soporte%20TI.efx#_doi6METeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Servicios%20de%20Soporte%20TI?"/>

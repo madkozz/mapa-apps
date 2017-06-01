@@ -9,7 +9,6 @@
     <references xmi:type="uml:Package" href="IVR.efx#_C0jaoETbEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/IVR?"/>
     <references xmi:type="uml:Package" href="App%20Moviles.efx#_9ZeSAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/App%20Moviles?"/>
     <references xmi:type="uml:Package" href="Empresas.efx#_2e0NAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/Empresas?"/>
-    <references xmi:type="uml:Package" href="AutoSrv%20POS.efx#_RpTYIEYqEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/AutoSrv%20POS?"/>
   </eAnnotations>
   <eAnnotations xmi:id="_eLSrIEYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragmentContainer">
     <references xmi:type="uml:Package" href="Dominios.efx#_se-VMETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios?"/>
@@ -81,5 +80,4 @@
   <packagedElement xmi:type="uml:Package" href="IVR.efx#_C0jaoETbEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/IVR?"/>
   <packagedElement xmi:type="uml:Package" href="App%20Moviles.efx#_9ZeSAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/App%20Moviles?"/>
   <packagedElement xmi:type="uml:Package" href="Empresas.efx#_2e0NAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/Empresas?"/>
-  <packagedElement xmi:type="uml:Package" href="AutoSrv%20POS.efx#_RpTYIEYqEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/AutoSrv%20POS?"/>
 </uml:Package>

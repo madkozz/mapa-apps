@@ -21,28 +21,6 @@
         <element xmi:type="uml:Package" href="Canales.efx#_aQCDEETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales?"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QjeE4UTfEeeAoKRw5SPXXA" x="2286" y="508" width="6432" height="2767"/>
       </children>
-      <children xmi:type="umlnotation:UMLShape" xmi:id="_XWDzAETfEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" gradient="15912618, 16777215, 0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-        <children xmi:type="notation:DecorationNode" xmi:id="_XWDzAkTfEeeAoKRw5SPXXA" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_XWDzA0TfEeeAoKRw5SPXXA" width="1320" height="1320"/>
-        </children>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_XWDzBETfEeeAoKRw5SPXXA" type="Stereotype"/>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_XWDzBUTfEeeAoKRw5SPXXA" type="Name"/>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_XWDzBkTfEeeAoKRw5SPXXA" type="Parent"/>
-        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_XWDzB0TfEeeAoKRw5SPXXA" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
-        <element xmi:type="uml:Package" href="Ventas%20y%20Gestión%20de%20Clientes.efx#_b0F20ETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Ventas%20y%20Gestión%20de%20Clientes?"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XWDzAUTfEeeAoKRw5SPXXA" x="8890" y="508" width="16718" height="2767"/>
-      </children>
-      <children xmi:type="umlnotation:UMLShape" xmi:id="_EJBEcEThEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" gradient="15912618, 16777215, 0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-        <children xmi:type="notation:DecorationNode" xmi:id="_EJBEckThEeeAoKRw5SPXXA" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_EJBEc0ThEeeAoKRw5SPXXA" width="1320" height="1320"/>
-        </children>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_EJBEdEThEeeAoKRw5SPXXA" type="Stereotype"/>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_EJBEdUThEeeAoKRw5SPXXA" type="Name"/>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_EJBEdkThEeeAoKRw5SPXXA" type="Parent"/>
-        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_EJBEd0ThEeeAoKRw5SPXXA" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
-        <element xmi:type="uml:Package" href="Gestión%20de%20Riesgo,%20Fraude%20y%20Auditoría.efx#_FeOrQETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Gestión%20de%20Riesgo,%20Fraude%20y%20Auditoría?"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EJBEcUThEeeAoKRw5SPXXA" x="6985" y="3429" width="12781" height="2767"/>
-      </children>
       <children xmi:type="umlnotation:UMLShape" xmi:id="_Gj_SEEThEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" gradient="15912618, 16777215, 0" lineColor="14263149" lineWidth="1" showStereotype="Label">
         <children xmi:type="notation:DecorationNode" xmi:id="_Gj_SEkThEeeAoKRw5SPXXA" type="ImageCompartment">
           <layoutConstraint xmi:type="notation:Size" xmi:id="_Gj_SE0ThEeeAoKRw5SPXXA" width="1320" height="1320"/>
@@ -53,17 +31,6 @@
         <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_Gj_SF0ThEeeAoKRw5SPXXA" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
         <element xmi:type="uml:Package" href="Pagos.efx#_LTZu4ETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Pagos?"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Gj_SEUThEeeAoKRw5SPXXA" x="19939" y="3429" width="5670" height="2767"/>
-      </children>
-      <children xmi:type="umlnotation:UMLShape" xmi:id="_Nvt48EThEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" gradient="15912618, 16777215, 0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-        <children xmi:type="notation:DecorationNode" xmi:id="_Nv3p8EThEeeAoKRw5SPXXA" type="ImageCompartment">
-          <layoutConstraint xmi:type="notation:Size" xmi:id="_Nv3p8UThEeeAoKRw5SPXXA" width="1320" height="1320"/>
-        </children>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Nv3p8kThEeeAoKRw5SPXXA" type="Stereotype"/>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Nv3p80ThEeeAoKRw5SPXXA" type="Name"/>
-        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Nv3p9EThEeeAoKRw5SPXXA" type="Parent"/>
-        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_Nv3p9UThEeeAoKRw5SPXXA" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
-        <element xmi:type="uml:Package" href="Gestión%20y%20Cumplimiento%20Regulatorio.efx#_TqUWgETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Gestión%20y%20Cumplimiento%20Regulatorio?"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Nvt48UThEeeAoKRw5SPXXA" x="2286" y="6350" width="17480" height="2767"/>
       </children>
       <children xmi:type="umlnotation:UMLShape" xmi:id="_R1cYMEThEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" gradient="15912618, 16777215, 0" lineColor="14263149" lineWidth="1" showStereotype="Label">
         <children xmi:type="notation:DecorationNode" xmi:id="_R1cYMkThEeeAoKRw5SPXXA" type="ImageCompartment">
