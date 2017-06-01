@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect for WebSphere Software 9.1.2-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.fragment" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_TLMj0ETZEeeAoKRw5SPXXA" name="Artefactos">
+  <eAnnotations xmi:id="_eSll8UYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragments">
+    <references xmi:type="uml:Package" href="Actores.efx#_j45QMETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Actores?"/>
+    <references xmi:type="uml:Package" href="Dominios.efx#_se-VMETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios?"/>
+    <references xmi:type="uml:Package" href="Sistemas.efx#_-1-hsETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Sistemas?"/>
+    <references xmi:type="uml:Package" href="Integración.efx#_ywt3EEU8EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/Artefactos/Integración?"/>
+    <references xmi:type="uml:Package" href="Legacy.efx#_z4kP8EU8EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/Artefactos/Legacy?"/>
+    <references xmi:type="uml:Package" href="Datos.efx#_2gqTkEU8EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/Artefactos/Datos?"/>
+    <references xmi:type="uml:Package" href="Clientes.efx#_XcbxEEU9EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/Artefactos/Clientes?"/>
+    <references xmi:type="uml:Package" href="Locations.efx#_R4PDsEV0EeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/Artefactos/Locations?"/>
+    <references xmi:type="uml:Package" href="Tier.efx#_-U2SYEbNEeeehPjIj_lyaQ?Mapa%20de%20Aplicaciones/Artefactos/Tier?"/>
+  </eAnnotations>
+  <eAnnotations xmi:id="_eSll8EYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragmentContainer">
+    <references xmi:type="uml:Model" href="MapaAplicaciones.emx#_I8R4wkTZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones?"/>
+  </eAnnotations>
+  <eAnnotations xmi:id="_TLMj0UTZEeeAoKRw5SPXXA" source="uml2.diagrams" references="_TLMj0kTZEeeAoKRw5SPXXA">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_TLMj0kTZEeeAoKRw5SPXXA" type="Freeform" name="Main">
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_M9ix8ETdEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_M9ix8kTdEeeAoKRw5SPXXA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_M9ix80TdEeeAoKRw5SPXXA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_M9ix9ETdEeeAoKRw5SPXXA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_M9ix9UTdEeeAoKRw5SPXXA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_M9ix9kTdEeeAoKRw5SPXXA" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_M9ix90TdEeeAoKRw5SPXXA" type="PackageContents" collapsed="true" canonical="false"/>
+        <element xmi:type="uml:Package" href="Actores.efx#_j45QMETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Actores?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_M9ix8UTdEeeAoKRw5SPXXA" x="1651" y="1333" width="5224"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_NoUNQETdEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_NoUNQkTdEeeAoKRw5SPXXA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_NoUNQ0TdEeeAoKRw5SPXXA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_NoUNRETdEeeAoKRw5SPXXA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_NoUNRUTdEeeAoKRw5SPXXA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_NoUNRkTdEeeAoKRw5SPXXA" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_NoUNR0TdEeeAoKRw5SPXXA" type="PackageContents" collapsed="true" canonical="false"/>
+        <element xmi:type="uml:Package" href="Dominios.efx#_se-VMETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_NoUNQUTdEeeAoKRw5SPXXA" x="1651" y="3683" width="5288"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_OzkfcETdEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_OzkfckTdEeeAoKRw5SPXXA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_Ozkfc0TdEeeAoKRw5SPXXA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_OzkfdETdEeeAoKRw5SPXXA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_OzkfdUTdEeeAoKRw5SPXXA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_OzkfdkTdEeeAoKRw5SPXXA" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_Ozkfd0TdEeeAoKRw5SPXXA" type="PackageContents" collapsed="true" canonical="false"/>
+        <element xmi:type="uml:Package" href="Sistemas.efx#_-1-hsETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Sistemas?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OzkfcUTdEeeAoKRw5SPXXA" x="1651" y="6223" width="5288"/>
+      </children>
+      <element xsi:nil="true"/>
+    </contents>
+  </eAnnotations>
+  <eAnnotations xmi:id="_9aYmEETcEeeAoKRw5SPXXA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+    <details xmi:id="_9aYmEUTcEeeAoKRw5SPXXA" key="common"/>
+  </eAnnotations>
+  <packagedElement xmi:type="uml:Package" href="Actores.efx#_j45QMETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Actores?"/>
+  <packagedElement xmi:type="uml:Package" href="Dominios.efx#_se-VMETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios?"/>
+  <packagedElement xmi:type="uml:Package" href="Sistemas.efx#_-1-hsETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Sistemas?"/>
+  <packagedElement xmi:type="uml:Package" href="Integración.efx#_ywt3EEU8EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/Artefactos/Integración?"/>
+  <packagedElement xmi:type="uml:Package" href="Legacy.efx#_z4kP8EU8EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/Artefactos/Legacy?"/>
+  <packagedElement xmi:type="uml:Package" href="Datos.efx#_2gqTkEU8EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/Artefactos/Datos?"/>
+  <packagedElement xmi:type="uml:Package" href="Clientes.efx#_XcbxEEU9EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/Artefactos/Clientes?"/>
+  <packagedElement xmi:type="uml:Package" href="Locations.efx#_R4PDsEV0EeeApZrQOYJXmw?Mapa%20de%20Aplicaciones/Artefactos/Locations?"/>
+  <packagedElement xmi:type="uml:Package" href="Tier.efx#_-U2SYEbNEeeehPjIj_lyaQ?Mapa%20de%20Aplicaciones/Artefactos/Tier?"/>
+</uml:Package>

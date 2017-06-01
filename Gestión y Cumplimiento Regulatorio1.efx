@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect for WebSphere Software 9.1.2-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.fragment" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Default="http:///schemas/Default/_fNm3AAqoEd6-N_NOT9vsCA/2" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xsi:schemaLocation="http:///schemas/Default/_fNm3AAqoEd6-N_NOT9vsCA/2 pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?">
+  <uml:Package xmi:id="_I1k3kEVMEeeApZrQOYJXmw" name="Gestión y Cumplimiento Regulatorio">
+    <eAnnotations xmi:id="_dCWGEUYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragments"/>
+    <eAnnotations xmi:id="_dCWGEEYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragmentContainer">
+      <references xmi:type="uml:Package" href="2%20-%20Contexto%20Sistemas.efx#_TBbccETcEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas?"/>
+    </eAnnotations>
+    <eAnnotations xmi:id="_I1uBgEVMEeeApZrQOYJXmw" source="uml2.diagrams" references="_I1uBgUVMEeeApZrQOYJXmw">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_I1uBgUVMEeeApZrQOYJXmw" type="Freeform" name="Diagrama SC22 - Cumplimiento">
+        <children xmi:type="umlnotation:UMLShape" xmi:id="_AsEJAUYsEeeFnajgXlaqvg" element="_Ar6_EEYsEeeFnajgXlaqvg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+          <eAnnotations xmi:id="_AsEJA0YsEeeFnajgXlaqvg" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_AsEJBEYsEeeFnajgXlaqvg" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_AsEJBUYsEeeFnajgXlaqvg" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_AsEJBkYsEeeFnajgXlaqvg" width="1320" height="1320"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_AsEJB0YsEeeFnajgXlaqvg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_AsEJCEYsEeeFnajgXlaqvg" type="CommentBody"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AsEJAkYsEeeFnajgXlaqvg"/>
+        </children>
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_P7axcEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC19 - DataMarts">
+        <children xmi:type="umlnotation:UMLShape" xmi:id="_9oCXUkYrEeeFnajgXlaqvg" element="_9oCXUEYrEeeFnajgXlaqvg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+          <eAnnotations xmi:id="_9oCXVEYrEeeFnajgXlaqvg" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_9oCXVUYrEeeFnajgXlaqvg" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_9oCXVkYrEeeFnajgXlaqvg" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_9oCXV0YrEeeFnajgXlaqvg" width="1320" height="1320"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_9oCXWEYrEeeFnajgXlaqvg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_9oCXWUYrEeeFnajgXlaqvg" type="CommentBody"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9oCXU0YrEeeFnajgXlaqvg"/>
+        </children>
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Qm9BwEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC21 - MIS">
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_RLUTEEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC20 - Externos Reguladores">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+    <ownedComment xmi:id="_mu6sgEYVEeeFnajgXlaqvg" annotatedElement="_I1k3kEVMEeeApZrQOYJXmw">
+      <body>..\..\..\..\Pictures\datawh.png</body>
+    </ownedComment>
+    <ownedComment xmi:id="_t_pvMEYVEeeFnajgXlaqvg" annotatedElement="_I1k3kEVMEeeApZrQOYJXmw">
+      <body>..\..\..\..\Pictures\cumplimiento.png</body>
+    </ownedComment>
+    <ownedComment xmi:id="_9oCXUEYrEeeFnajgXlaqvg" annotatedElement="_I1k3kEVMEeeApZrQOYJXmw">
+      <body>Recursos\img\datawh.png</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Ar6_EEYsEeeFnajgXlaqvg" annotatedElement="_I1k3kEVMEeeApZrQOYJXmw">
+      <body>Recursos\img\cumplimiento.png</body>
+    </ownedComment>
+  </uml:Package>
+  <Default:URL xmi:id="_mu6sgUYVEeeFnajgXlaqvg" base_Comment="_mu6sgEYVEeeFnajgXlaqvg"/>
+  <Default:URL xmi:id="_t_pvMUYVEeeFnajgXlaqvg" base_Comment="_t_pvMEYVEeeFnajgXlaqvg"/>
+  <Default:URL xmi:id="_9oCXUUYrEeeFnajgXlaqvg" base_Comment="_9oCXUEYrEeeFnajgXlaqvg"/>
+  <Default:URL xmi:id="_AsEJAEYsEeeFnajgXlaqvg" base_Comment="_Ar6_EEYsEeeFnajgXlaqvg"/>
+</xmi:XMI>

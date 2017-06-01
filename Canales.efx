@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect for WebSphere Software 9.1.2-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.fragment" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_aQCDEETaEeeAoKRw5SPXXA" name="Canales">
+  <eAnnotations xmi:id="_eLSrIUYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragments">
+    <references xmi:type="uml:Package" href="WEB.efx#_1W2fYETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/WEB?"/>
+    <references xmi:type="uml:Package" href="IVR.efx#_C0jaoETbEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/IVR?"/>
+    <references xmi:type="uml:Package" href="App%20Moviles.efx#_9ZeSAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/App%20Moviles?"/>
+    <references xmi:type="uml:Package" href="Empresas.efx#_2e0NAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/Empresas?"/>
+    <references xmi:type="uml:Package" href="AutoSrv%20POS.efx#_RpTYIEYqEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/AutoSrv%20POS?"/>
+  </eAnnotations>
+  <eAnnotations xmi:id="_eLSrIEYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragmentContainer">
+    <references xmi:type="uml:Package" href="Dominios.efx#_se-VMETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios?"/>
+  </eAnnotations>
+  <eAnnotations xmi:id="_aQCDEUTaEeeAoKRw5SPXXA" source="uml2.diagrams" references="_aQL0EETaEeeAoKRw5SPXXA">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_aQL0EETaEeeAoKRw5SPXXA" type="Freeform" name="Main">
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_KtRJsETjEeeAoKRw5SPXXA" element="_aQCDEETaEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_KtaToETjEeeAoKRw5SPXXA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_KtaToUTjEeeAoKRw5SPXXA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_KtaTokTjEeeAoKRw5SPXXA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_KtaTo0TjEeeAoKRw5SPXXA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_KtaTpETjEeeAoKRw5SPXXA" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_KtaTpUTjEeeAoKRw5SPXXA" type="PackageContents" canonical="false">
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_ZCPEIETjEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" gradient="15912618, 16777215, 0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_ZCPEIkTjEeeAoKRw5SPXXA" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_ZCPEI0TjEeeAoKRw5SPXXA" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_ZCPEJETjEeeAoKRw5SPXXA" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_ZCPEJUTjEeeAoKRw5SPXXA" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_ZCPEJkTjEeeAoKRw5SPXXA" type="Parent"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_ZCPEJ0TjEeeAoKRw5SPXXA" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
+            <element xmi:type="uml:Package" href="WEB.efx#_1W2fYETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/WEB?"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZCPEIUTjEeeAoKRw5SPXXA" x="192" y="470" width="3638" height="2133"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_YnQ_YETjEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" gradient="15912618, 16777215, 0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_YnQ_YkTjEeeAoKRw5SPXXA" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_YnQ_Y0TjEeeAoKRw5SPXXA" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_YnQ_ZETjEeeAoKRw5SPXXA" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_YnQ_ZUTjEeeAoKRw5SPXXA" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_YnQ_ZkTjEeeAoKRw5SPXXA" type="Parent"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_YnQ_Z0TjEeeAoKRw5SPXXA" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
+            <element xmi:type="uml:Package" href="IVR.efx#_C0jaoETbEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/IVR?"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YnQ_YUTjEeeAoKRw5SPXXA" x="8320" y="3010" width="3638" height="2133"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_SufOIETjEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" gradient="15912618, 16777215, 0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_SufOIkTjEeeAoKRw5SPXXA" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_SufOI0TjEeeAoKRw5SPXXA" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_SufOJETjEeeAoKRw5SPXXA" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_SufOJUTjEeeAoKRw5SPXXA" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_SufOJkTjEeeAoKRw5SPXXA" type="Parent"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_SufOJ0TjEeeAoKRw5SPXXA" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
+            <element xmi:type="uml:Package" href="App%20Moviles.efx#_9ZeSAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/App%20Moviles?"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SufOIUTjEeeAoKRw5SPXXA" x="4256" y="470" width="3636" height="4673"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_YTJJgETjEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" gradient="15912618, 16777215, 0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_YTJJgkTjEeeAoKRw5SPXXA" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_YTJJg0TjEeeAoKRw5SPXXA" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_YTJJhETjEeeAoKRw5SPXXA" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_YTJJhUTjEeeAoKRw5SPXXA" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_YTJJhkTjEeeAoKRw5SPXXA" type="Parent"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_YTJJh0TjEeeAoKRw5SPXXA" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
+            <element xmi:type="uml:Package" href="Empresas.efx#_2e0NAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/Empresas?"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YTJJgUTjEeeAoKRw5SPXXA" x="192" y="3010" width="3637" height="2133"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_ahL-0EYqEeeFnajgXlaqvg" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" gradient="15912618, 16777215, 0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_ahL-0kYqEeeFnajgXlaqvg" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_ahL-00YqEeeFnajgXlaqvg" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_ahL-1EYqEeeFnajgXlaqvg" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_ahL-1UYqEeeFnajgXlaqvg" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_ahL-1kYqEeeFnajgXlaqvg" type="Parent"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_ahL-10YqEeeFnajgXlaqvg" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
+            <element xmi:type="uml:Package" href="AutoSrv%20POS.efx#_RpTYIEYqEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/AutoSrv%20POS?"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ahL-0UYqEeeFnajgXlaqvg" x="8320" y="470" width="3637" height="2005"/>
+          </children>
+        </children>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KtRJsUTjEeeAoKRw5SPXXA" x="1143" y="1143" width="12526" height="6958"/>
+      </children>
+      <element xsi:nil="true"/>
+    </contents>
+  </eAnnotations>
+  <eAnnotations xmi:id="_21mYgkTeEeeAoKRw5SPXXA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+    <details xmi:id="_Tx8EoETiEeeAoKRw5SPXXA" key="dominio"/>
+  </eAnnotations>
+  <packagedElement xmi:type="uml:Package" href="WEB.efx#_1W2fYETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/WEB?"/>
+  <packagedElement xmi:type="uml:Package" href="IVR.efx#_C0jaoETbEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/IVR?"/>
+  <packagedElement xmi:type="uml:Package" href="App%20Moviles.efx#_9ZeSAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/App%20Moviles?"/>
+  <packagedElement xmi:type="uml:Package" href="Empresas.efx#_2e0NAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/Empresas?"/>
+  <packagedElement xmi:type="uml:Package" href="AutoSrv%20POS.efx#_RpTYIEYqEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/AutoSrv%20POS?"/>
+</uml:Package>

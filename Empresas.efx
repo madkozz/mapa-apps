@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect for WebSphere Software 9.1.2-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.fragment" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_2e0NAETaEeeAoKRw5SPXXA" name="Empresas" clientDependency="_WcGw0EbPEeeehPjIj_lyaQ">
+  <eAnnotations xmi:id="_d_ENAUYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragments"/>
+  <eAnnotations xmi:id="_d_ENAEYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragmentContainer">
+    <references xmi:type="uml:Package" href="Canales.efx#_aQCDEETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales?"/>
+  </eAnnotations>
+  <eAnnotations xmi:id="_2e0NAUTaEeeAoKRw5SPXXA" source="uml2.diagrams" references="_2e0NAkTaEeeAoKRw5SPXXA">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_2e0NAkTaEeeAoKRw5SPXXA" type="Freeform" name="Main">
+      <element xsi:nil="true"/>
+    </contents>
+  </eAnnotations>
+  <eAnnotations xmi:id="_ylO6FETfEeeAoKRw5SPXXA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+    <details xmi:id="_W1b1YkTjEeeAoKRw5SPXXA" key="sistema"/>
+  </eAnnotations>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_WcGw0EbPEeeehPjIj_lyaQ" client="_2e0NAETaEeeAoKRw5SPXXA">
+    <supplier xmi:type="uml:Component" href="Integración.efx#_Hquy4EU9EeexK4LAoNdadg?Mapa%20de%20Aplicaciones/Artefactos/Integración/Tuxedo?"/>
+  </packagedElement>
+</uml:Package>

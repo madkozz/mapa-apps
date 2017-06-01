@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect for WebSphere Software 9.1.2-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.fragment" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Default="http:///schemas/Default/_fNm3AAqoEd6-N_NOT9vsCA/2" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xsi:schemaLocation="http:///schemas/Default/_fNm3AAqoEd6-N_NOT9vsCA/2 pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?">
+  <uml:Package xmi:id="_BakekEVMEeeApZrQOYJXmw" name="Administración de Productos">
+    <eAnnotations xmi:id="_dJpn8UYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragments"/>
+    <eAnnotations xmi:id="_dJpn8EYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragmentContainer">
+      <references xmi:type="uml:Package" href="2%20-%20Contexto%20Sistemas.efx#_TBbccETcEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas?"/>
+    </eAnnotations>
+    <eAnnotations xmi:id="_BalssEVMEeeApZrQOYJXmw" source="uml2.diagrams" references="_BamTwEVMEeeApZrQOYJXmw">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_BamTwEVMEeeApZrQOYJXmw" type="Freeform" name="Diagrama SC36 - Cajas de Seguridad">
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_t2VtEEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC26 - Depósitos y Cuentas">
+        <children xmi:type="umlnotation:UMLShape" xmi:id="_tXOl0kYsEeeFnajgXlaqvg" element="_tXOl0EYsEeeFnajgXlaqvg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+          <eAnnotations xmi:id="_tXOl1EYsEeeFnajgXlaqvg" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_tXOl1UYsEeeFnajgXlaqvg" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_tXOl1kYsEeeFnajgXlaqvg" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_tXOl10YsEeeFnajgXlaqvg" width="1320" height="1320"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_tXOl2EYsEeeFnajgXlaqvg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_tXOl2UYsEeeFnajgXlaqvg" type="CommentBody"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tXOl00YsEeeFnajgXlaqvg"/>
+        </children>
+        <element xsi:nil="true"/>
+        <layers xmi:id="_yguMAEYoEeeFnajgXlaqvg" name="ref" views="_tXOl0kYsEeeFnajgXlaqvg"/>
+        <layers xmi:id="_za70sEYsEeeFnajgXlaqvg" name="contexto"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_ubLfgEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC28 - Tarjetas">
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_u4iw8EYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC29 - Valores &amp; MC">
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_vVJ0cEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC30 - Adm Planes">
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_vzPeoEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC31 - Adm Tasas-Precios">
+        <children xmi:type="umlnotation:UMLShape" xmi:id="_Nwm9YkYsEeeFnajgXlaqvg" element="_Nwm9YEYsEeeFnajgXlaqvg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+          <eAnnotations xmi:id="_Nwm9ZEYsEeeFnajgXlaqvg" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_Nwm9ZUYsEeeFnajgXlaqvg" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Nwm9ZkYsEeeFnajgXlaqvg" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_Nwm9Z0YsEeeFnajgXlaqvg" width="1320" height="1320"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Nwm9aEYsEeeFnajgXlaqvg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Nwm9aUYsEeeFnajgXlaqvg" type="CommentBody"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Nwm9Y0YsEeeFnajgXlaqvg"/>
+        </children>
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_wdBbcEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC32 - Seguros">
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_w2tt0EYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC33 - COMEX">
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_xR_UkEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC34 - Leasing">
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_xyZ6AEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC35 - Factoring">
+        <children xmi:type="umlnotation:UMLShape" xmi:id="_Q6jw4kYsEeeFnajgXlaqvg" element="_Q6jw4EYsEeeFnajgXlaqvg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+          <eAnnotations xmi:id="_Q6jw5EYsEeeFnajgXlaqvg" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_Q6jw5UYsEeeFnajgXlaqvg" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Q6jw5kYsEeeFnajgXlaqvg" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_Q6jw50YsEeeFnajgXlaqvg" width="1320" height="1320"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Q6jw6EYsEeeFnajgXlaqvg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Q6jw6UYsEeeFnajgXlaqvg" type="CommentBody"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Q6jw40YsEeeFnajgXlaqvg"/>
+        </children>
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_yRLgsEYTEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC27 - Créditos">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+    <ownedComment xmi:id="_YlsIAEYVEeeFnajgXlaqvg" annotatedElement="_BakekEVMEeeApZrQOYJXmw">
+      <body>..\..\..\..\Pictures\Factoring.png</body>
+    </ownedComment>
+    <ownedComment xmi:id="_ZDlIcEYWEeeFnajgXlaqvg" annotatedElement="_BakekEVMEeeApZrQOYJXmw">
+      <body>..\..\..\..\Pictures\Planes&amp;Cuentas.png</body>
+    </ownedComment>
+    <ownedComment xmi:id="_prjnUEYWEeeFnajgXlaqvg" annotatedElement="_BakekEVMEeeApZrQOYJXmw">
+      <body>..\..\..\..\Pictures\PreciosSGC.png</body>
+    </ownedComment>
+    <ownedComment xmi:id="_JB8O0EYsEeeFnajgXlaqvg" annotatedElement="_BakekEVMEeeApZrQOYJXmw">
+      <body>Recursos\img\Planes&amp;Cuentas.png</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Nwm9YEYsEeeFnajgXlaqvg" annotatedElement="_BakekEVMEeeApZrQOYJXmw">
+      <body>Recursos\img\PreciosSGC.png</body>
+    </ownedComment>
+    <ownedComment xmi:id="_Q6jw4EYsEeeFnajgXlaqvg" annotatedElement="_BakekEVMEeeApZrQOYJXmw">
+      <body>Recursos\img\Factoring.png</body>
+    </ownedComment>
+    <ownedComment xmi:id="_tXOl0EYsEeeFnajgXlaqvg" annotatedElement="_BakekEVMEeeApZrQOYJXmw">
+      <body>Recursos\img\Planes&amp;Cuentas.png</body>
+    </ownedComment>
+  </uml:Package>
+  <Default:URL xmi:id="_YlsIAUYVEeeFnajgXlaqvg" base_Comment="_YlsIAEYVEeeFnajgXlaqvg"/>
+  <Default:URL xmi:id="_ZDlIcUYWEeeFnajgXlaqvg" base_Comment="_ZDlIcEYWEeeFnajgXlaqvg"/>
+  <Default:URL xmi:id="_prjnUUYWEeeFnajgXlaqvg" base_Comment="_prjnUEYWEeeFnajgXlaqvg"/>
+  <Default:URL xmi:id="_JB8O0UYsEeeFnajgXlaqvg" base_Comment="_JB8O0EYsEeeFnajgXlaqvg"/>
+  <Default:URL xmi:id="_Nwm9YUYsEeeFnajgXlaqvg" base_Comment="_Nwm9YEYsEeeFnajgXlaqvg"/>
+  <Default:URL xmi:id="_Q6jw4UYsEeeFnajgXlaqvg" base_Comment="_Q6jw4EYsEeeFnajgXlaqvg"/>
+  <Default:URL xmi:id="_tXOl0UYsEeeFnajgXlaqvg" base_Comment="_tXOl0EYsEeeFnajgXlaqvg"/>
+</xmi:XMI>

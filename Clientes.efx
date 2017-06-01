@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect for WebSphere Software 9.1.2-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.fragment" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:topic="http://www.ibm.com/xtools/6.0.0/Topic" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_XcbxEEU9EeexK4LAoNdadg" name="Clientes">
+  <eAnnotations xmi:id="_dauw4UYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragments"/>
+  <eAnnotations xmi:id="_dauw4EYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragmentContainer">
+    <references xmi:type="uml:Package" href="Artefactos.efx#_TLMj0ETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos?"/>
+  </eAnnotations>
+  <eAnnotations xmi:id="_XcbxEUU9EeexK4LAoNdadg" source="uml2.diagrams" references="_XcbxEkU9EeexK4LAoNdadg">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_XcbxEkU9EeexK4LAoNdadg" type="Freeform" name="Main">
+      <element xsi:nil="true"/>
+    </contents>
+  </eAnnotations>
+  <packagedElement xmi:type="uml:Device" xmi:id="_NBS9AEU_EeexK4LAoNdadg" name="Laptop" clientDependency="_mONRYEU_EeexK4LAoNdadg"/>
+  <packagedElement xmi:type="uml:Device" xmi:id="_OuLVkEU_EeexK4LAoNdadg" name="Smartphone" clientDependency="_o4V8YEU_EeexK4LAoNdadg">
+    <eAnnotations xmi:id="_KrxhMEVtEeeApZrQOYJXmw" source="uml2.topicqueries">
+      <contents xmi:type="topic:TopicQuery" xmi:id="_KrxhMUVtEeeApZrQOYJXmw" context="_OuLVkEU_EeexK4LAoNdadg" topicId="com.ibm.xtools.modeler.ui.editor.RelatedModelingElements" name="TopicDiagram">
+        <eAnnotations xmi:id="_KrxhMkVtEeeApZrQOYJXmw" source="com.ibm.xtools.topic.query_attributes">
+          <details xmi:id="_KrxhM0VtEeeApZrQOYJXmw" key="expansionType" value="3"/>
+          <details xmi:id="_KrxhNEVtEeeApZrQOYJXmw" key="expandIndefinitely" value="false"/>
+          <details xmi:id="_KrxhNUVtEeeApZrQOYJXmw" key="expandLevels" value="1"/>
+          <details xmi:id="_KrxhNkVtEeeApZrQOYJXmw" key="layoutType" value="DEFAULT"/>
+          <details xmi:id="_KrxhN0VtEeeApZrQOYJXmw" key="stoppingList" value="NONE"/>
+          <details xmi:id="_KrxhOEVtEeeApZrQOYJXmw" key="selections" value="~Relationships.Modeler.AllRelationships~Relationships.Modeler.Associations~uml.BidirectionalAssociation~uml.CompositionAssociation~uml.UninavigableAssociation~uml.BidirectionalSharedAssociation~uml.SharedAssociation~uml.AssociationClass~uml.CommunicationPath~uml.Extension~Relationships.Modeler.Dependencies~uml.Abstraction~uml.UsageCall~uml.UsageCreate~uml.Dependency~uml.Deployment~uml.DerivedAbstraction~uml.Instantiate~uml.Manifestation~uml.Realization~uml.ComponentRealization~uml.InterfaceRealization~uml.AbstractionRefine~uml.UsageSend~uml.Substitution~uml.AbstractionTrace~uml.Usage~uml.UsageResponsibility~uml.TemplateBinding~uml.ElementImport~uml.Extend~uml.Generalization~uml.Include~uml.PackageImport~uml.PackageMerge~uml.InstanceSpecification~uml.InformationFlow~uml.ProfileApplication~uml2.OwnedElement~uml.Reference~uml.StereotypeApplication~Relationships.Modeler.References~uml.Comment~uml.Constraint~uml.Url~uml.UrlLink"/>
+        </eAnnotations>
+      </contents>
+    </eAnnotations>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_mONRYEU_EeexK4LAoNdadg" client="_NBS9AEU_EeexK4LAoNdadg">
+    <supplier xmi:type="uml:Package" href="WEB.efx#_1W2fYETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/WEB?"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_o4V8YEU_EeexK4LAoNdadg" client="_OuLVkEU_EeexK4LAoNdadg">
+    <supplier xmi:type="uml:Package" href="WEB.efx#_1W2fYETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/WEB?"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_N1oxoEbMEeeehPjIj_lyaQ" name="Operaciones WEB Emp" clientDependency="_djyQEEbNEeeehPjIj_lyaQ"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_PgqwEEbMEeeehPjIj_lyaQ" name="Persona" clientDependency="_e0EMMEbNEeeehPjIj_lyaQ"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_RvszcEbMEeeehPjIj_lyaQ" name="Empresa" clientDependency="_fvRQMEbNEeeehPjIj_lyaQ"/>
+  <packagedElement xmi:type="uml:Component" xmi:id="_fjZz4EbMEeeehPjIj_lyaQ" name="ERP" clientDependency="_g5oKgEbNEeeehPjIj_lyaQ"/>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_djyQEEbNEeeehPjIj_lyaQ" client="_N1oxoEbMEeeehPjIj_lyaQ">
+    <supplier xmi:type="uml:Package" href="Empresas.efx#_2e0NAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/Empresas?"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_e0EMMEbNEeeehPjIj_lyaQ" client="_PgqwEEbMEeeehPjIj_lyaQ">
+    <supplier xmi:type="uml:Package" href="Empresas.efx#_2e0NAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/Empresas?"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_fvRQMEbNEeeehPjIj_lyaQ" client="_RvszcEbMEeeehPjIj_lyaQ">
+    <supplier xmi:type="uml:Package" href="Empresas.efx#_2e0NAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/Empresas?"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Usage" xmi:id="_g5oKgEbNEeeehPjIj_lyaQ" client="_fjZz4EbMEeeehPjIj_lyaQ">
+    <supplier xmi:type="uml:Package" href="Empresas.efx#_2e0NAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/Empresas?"/>
+  </packagedElement>
+</uml:Package>

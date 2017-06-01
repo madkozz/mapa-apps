@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect for WebSphere Software 9.1.2-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_I8R4wkTZEeeAoKRw5SPXXA" name="Mapa de Aplicaciones">
+  <eAnnotations xmi:id="_c1mqkEYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragments">
+    <references xmi:type="uml:Package" href="4%20-%20Dependencia%20Aplicaciones1.efx#_dkWooETcEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/4%20-%20Dependencia%20Aplicaciones?"/>
+    <references xmi:type="uml:Package" href="3%20-%20Deployment%20Aplicaciones1.efx#_ZQVOsETcEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/3%20-%20Deployment%20Aplicaciones?"/>
+    <references xmi:type="uml:Package" href="2%20-%20Contexto%20Sistemas.efx#_TBbccETcEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas?"/>
+    <references xmi:type="uml:Package" href="1%20-%20Dominios%20de%20Sistemas.efx#_RXdN8ETcEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/1%20-%20Dominios%20de%20Sistemas?"/>
+    <references xmi:type="uml:Package" href="Artefactos.efx#_TLMj0ETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos?"/>
+  </eAnnotations>
+  <eAnnotations xmi:id="_I8R4w0TZEeeAoKRw5SPXXA" source="uml2.diagrams" references="_I8R4xETZEeeAoKRw5SPXXA">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_I8R4xETZEeeAoKRw5SPXXA" type="Freeform" name="Overview">
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_yl36oETcEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_yl36okTcEeeAoKRw5SPXXA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_yl36o0TcEeeAoKRw5SPXXA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_yl36pETcEeeAoKRw5SPXXA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_yl36pUTcEeeAoKRw5SPXXA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_yl36pkTcEeeAoKRw5SPXXA" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_yl36p0TcEeeAoKRw5SPXXA" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
+        <element xmi:type="uml:Package" href="1%20-%20Dominios%20de%20Sistemas.efx#_RXdN8ETcEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/1%20-%20Dominios%20de%20Sistemas?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yl36oUTcEeeAoKRw5SPXXA" x="1524" y="1270" width="5668" height="1879"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_zQ6bsETcEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_zQ6bskTcEeeAoKRw5SPXXA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_zQ6bs0TcEeeAoKRw5SPXXA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_zQ6btETcEeeAoKRw5SPXXA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_zRDloETcEeeAoKRw5SPXXA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_zRDloUTcEeeAoKRw5SPXXA" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_zRDlokTcEeeAoKRw5SPXXA" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
+        <element xmi:type="uml:Package" href="2%20-%20Contexto%20Sistemas.efx#_TBbccETcEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zQ6bsUTcEeeAoKRw5SPXXA" x="8255" y="1270" width="5669" height="1879"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_0iIL8ETcEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_0iIL8kTcEeeAoKRw5SPXXA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_0iIL80TcEeeAoKRw5SPXXA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_0iIL9ETcEeeAoKRw5SPXXA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_0iIL9UTcEeeAoKRw5SPXXA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_0iIL9kTcEeeAoKRw5SPXXA" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_0iIL90TcEeeAoKRw5SPXXA" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
+        <element xmi:type="uml:Package" href="3%20-%20Deployment%20Aplicaciones1.efx#_ZQVOsETcEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/3%20-%20Deployment%20Aplicaciones?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0iIL8UTcEeeAoKRw5SPXXA" x="1524" y="3810" width="5669" height="1879"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_02QB0ETcEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_02QB0kTcEeeAoKRw5SPXXA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_02QB00TcEeeAoKRw5SPXXA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_02QB1ETcEeeAoKRw5SPXXA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_02QB1UTcEeeAoKRw5SPXXA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_02QB1kTcEeeAoKRw5SPXXA" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_02QB10TcEeeAoKRw5SPXXA" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
+        <element xmi:type="uml:Package" href="4%20-%20Dependencia%20Aplicaciones1.efx#_dkWooETcEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/4%20-%20Dependencia%20Aplicaciones?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_02QB0UTcEeeAoKRw5SPXXA" x="8255" y="3810" width="5668" height="1879"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_6jPZ0ETcEeeAoKRw5SPXXA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_6jPZ0kTcEeeAoKRw5SPXXA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_6jPZ00TcEeeAoKRw5SPXXA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6jPZ1ETcEeeAoKRw5SPXXA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6jPZ1UTcEeeAoKRw5SPXXA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_6jPZ1kTcEeeAoKRw5SPXXA" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_6jPZ10TcEeeAoKRw5SPXXA" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
+        <element xmi:type="uml:Package" href="Artefactos.efx#_TLMj0ETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6jPZ0UTcEeeAoKRw5SPXXA" x="1524" y="6350" width="5669" height="1879"/>
+      </children>
+    </contents>
+  </eAnnotations>
+  <packageImport xmi:id="_I8R4xUTZEeeAoKRw5SPXXA">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Package" href="Artefactos.efx#_TLMj0ETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos?"/>
+  <packagedElement xmi:type="uml:Package" href="1%20-%20Dominios%20de%20Sistemas.efx#_RXdN8ETcEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/1%20-%20Dominios%20de%20Sistemas?"/>
+  <packagedElement xmi:type="uml:Package" href="2%20-%20Contexto%20Sistemas.efx#_TBbccETcEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas?"/>
+  <packagedElement xmi:type="uml:Package" href="3%20-%20Deployment%20Aplicaciones1.efx#_ZQVOsETcEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/3%20-%20Deployment%20Aplicaciones?"/>
+  <packagedElement xmi:type="uml:Package" href="4%20-%20Dependencia%20Aplicaciones1.efx#_dkWooETcEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/4%20-%20Dependencia%20Aplicaciones?"/>
+  <profileApplication xmi:id="_I8R4xkTZEeeAoKRw5SPXXA">
+    <eAnnotations xmi:id="_I8R4x0TZEeeAoKRw5SPXXA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+  </profileApplication>
+  <profileApplication xmi:id="_I8R4yETZEeeAoKRw5SPXXA">
+    <eAnnotations xmi:id="_I8R4yUTZEeeAoKRw5SPXXA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Default.epx#_a_S3wNWLEdiy4IqP8whjFA?Default?"/>
+  </profileApplication>
+  <profileApplication xmi:id="_I8R4ykTZEeeAoKRw5SPXXA">
+    <eAnnotations xmi:id="_I8R4y0TZEeeAoKRw5SPXXA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_4OVBUD0TEeKt-L0gyEptgQ?Deployment/Deployment?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_vjbuwOvHEdiDX5bji0iVSA?Deployment?"/>
+  </profileApplication>
+  <profileApplication xmi:id="_wFHvgEVoEeeApZrQOYJXmw">
+    <eAnnotations xmi:id="_wFRggEVoEeeApZrQOYJXmw" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://XSD_PROFILES/XSDProfile.epx#_0S7XILmyEeCPE-4cAROvtA?XSDProfile/XSDProfile?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://XSD_PROFILES/XSDProfile.epx#_w1-ykSkOEdmj4ajjgbmSxQ?XSDProfile?"/>
+  </profileApplication>
+</uml:Model>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<!--Rational Software Architect for WebSphere Software 9.1.2-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.fragment" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Default="http:///schemas/Default/_fNm3AAqoEd6-N_NOT9vsCA/2" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xsi:schemaLocation="http:///schemas/Default/_fNm3AAqoEd6-N_NOT9vsCA/2 pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?">
+  <uml:Package xmi:id="_V0ONUEYSEeeFnajgXlaqvg" name="Financieros-Contabilidad">
+    <eAnnotations xmi:id="_a_OAoUYUEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragments"/>
+    <eAnnotations xmi:id="_a_OAoEYUEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragmentContainer">
+      <references xmi:type="uml:Package" href="2%20-%20Contexto%20Sistemas.efx#_TBbccETcEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/2%20-%20Contexto%20Sistemas?"/>
+    </eAnnotations>
+    <eAnnotations xmi:id="_V0hIQEYSEeeFnajgXlaqvg" source="uml2.diagrams" references="_V0hIQUYSEeeFnajgXlaqvg">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_V0hIQUYSEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC13 - Cobranzas">
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Y-z6AEYSEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC11 - Contabilidad">
+        <children xmi:type="umlnotation:UMLShape" xmi:id="_0MYVMkYrEeeFnajgXlaqvg" element="_0MYVMEYrEeeFnajgXlaqvg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+          <eAnnotations xmi:id="_0MYVNEYrEeeFnajgXlaqvg" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_0MYVNUYrEeeFnajgXlaqvg" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_0MYVNkYrEeeFnajgXlaqvg" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_0MYVN0YrEeeFnajgXlaqvg" width="1320" height="1320"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_0MYVOEYrEeeFnajgXlaqvg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_0MYVOUYrEeeFnajgXlaqvg" type="CommentBody"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0MYVM0YrEeeFnajgXlaqvg"/>
+        </children>
+        <element xsi:nil="true"/>
+      </contents>
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_ZvX0QEYSEeeFnajgXlaqvg" type="Freeform" name="Diagrama SC12 - Tesoreria">
+        <children xmi:type="umlnotation:UMLShape" xmi:id="_qHbeckYrEeeFnajgXlaqvg" element="_qHbecEYrEeeFnajgXlaqvg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+          <eAnnotations xmi:id="_qHbedEYrEeeFnajgXlaqvg" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+            <details xmi:id="_qHbedUYrEeeFnajgXlaqvg" key="ImageModeStyle" value="true"/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_qHbedkYrEeeFnajgXlaqvg" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_qHbed0YrEeeFnajgXlaqvg" width="1320" height="1320"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_qHkoYEYrEeeFnajgXlaqvg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_qHkoYUYrEeeFnajgXlaqvg" type="CommentBody"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qHbec0YrEeeFnajgXlaqvg"/>
+        </children>
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+    <ownedComment xmi:id="__cA4YEYVEeeFnajgXlaqvg" annotatedElement="_V0ONUEYSEeeFnajgXlaqvg">
+      <body>..\..\..\..\Pictures\tesoreria.png</body>
+    </ownedComment>
+    <ownedComment xmi:id="_GmbQoEYWEeeFnajgXlaqvg" annotatedElement="_V0ONUEYSEeeFnajgXlaqvg">
+      <body>..\..\..\..\Pictures\contabilidad.png</body>
+    </ownedComment>
+    <ownedComment xmi:id="_qHbecEYrEeeFnajgXlaqvg" annotatedElement="_V0ONUEYSEeeFnajgXlaqvg">
+      <body>Recursos\img\Tesorería.png</body>
+    </ownedComment>
+    <ownedComment xmi:id="_0MYVMEYrEeeFnajgXlaqvg" annotatedElement="_V0ONUEYSEeeFnajgXlaqvg">
+      <body>Recursos\img\contabilidad.png</body>
+    </ownedComment>
+  </uml:Package>
+  <Default:URL xmi:id="__cA4YUYVEeeFnajgXlaqvg" base_Comment="__cA4YEYVEeeFnajgXlaqvg"/>
+  <Default:URL xmi:id="_GmbQoUYWEeeFnajgXlaqvg" base_Comment="_GmbQoEYWEeeFnajgXlaqvg"/>
+  <Default:URL xmi:id="_qHbecUYrEeeFnajgXlaqvg" base_Comment="_qHbecEYrEeeFnajgXlaqvg"/>
+  <Default:URL xmi:id="_0MYVMUYrEeeFnajgXlaqvg" base_Comment="_0MYVMEYrEeeFnajgXlaqvg"/>
+</xmi:XMI>
