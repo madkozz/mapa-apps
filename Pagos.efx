@@ -75,8 +75,8 @@
   <eAnnotations xmi:id="_21mYikTeEeeAoKRw5SPXXA" source="http://www.eclipse.org/uml2/2.0.0/UML">
     <details xmi:id="_Tx_H8ETiEeeAoKRw5SPXXA" key="dominio"/>
   </eAnnotations>
-  <packagedElement xmi:type="uml:Actor" xmi:id="_iu2aYEcHEeewIquu9iylDw" name="Las pelotas"/>
-  <packagedElement xmi:type="uml:UseCase" xmi:id="_jlYZwEcHEeewIquu9iylDw" name="se me rompen"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_iu2aYEcHEeewIquu9iylDw" name="cliente"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_jlYZwEcHEeewIquu9iylDw" name="pago cuentas"/>
   <packagedElement xmi:type="uml:Association" xmi:id="_lB0ikEcHEeewIquu9iylDw" memberEnd="_lB3l4EcHEeewIquu9iylDw _lB73UEcHEeewIquu9iylDw" navigableOwnedEnd="_lB3l4EcHEeewIquu9iylDw _lB73UEcHEeewIquu9iylDw">
     <ownedEnd xmi:id="_lB3l4EcHEeewIquu9iylDw" name="se me rompen" visibility="private" type="_jlYZwEcHEeewIquu9iylDw" association="_lB0ikEcHEeewIquu9iylDw">
       <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_lB6pMEcHEeewIquu9iylDw" value="1"/>
