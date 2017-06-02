@@ -8,10 +8,13 @@
     <references xmi:type="uml:Package" href="Canales.efx#_aQCDEETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales?"/>
     <references xmi:type="uml:Package" href="Pagos.efx#_LTZu4ETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Pagos?"/>
     <references xmi:type="uml:Package" href="Servicios%20de%20Soporte.efx#_YSO80ETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Servicios%20de%20Soporte?"/>
-    <references xmi:type="uml:Package" href="Administración%20de%20Productos.efx#_Zz2gkETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Administración%20de%20Productos?"/>
     <references xmi:type="uml:Package" href="Servicios%20de%20Soporte%20TI.efx#_doi6METeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Servicios%20de%20Soporte%20TI?"/>
     <references xmi:type="uml:Package" href="Servicios%20Externos.efx#_fwnZ8ETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Servicios%20Externos?"/>
     <references xmi:type="uml:Package" href="Financieros%20Contabilidad.efx#_L6lXQEYpEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Financieros%20Contabilidad?"/>
+    <references xmi:type="uml:Package" href="Administracion%20de%20Productos1.efx#_KwKGAEeeEeepBY9POkD-FQ?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Administracion%20de%20Productos?"/>
+    <references xmi:type="uml:Package" href="Gestion%20y%20Cumplimiento%20Regulatorio1.efx#_-aKZsEedEeepBY9POkD-FQ?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Gestion%20y%20Cumplimiento%20Regulatorio?"/>
+    <references xmi:type="uml:Package" href="Gestion%20de%20Riesgo,%20Fraude%20y%20Auditoria1.efx#_5rQakEedEeepBY9POkD-FQ?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Gestion%20de%20Riesgo,%20Fraude%20y%20Auditoria?"/>
+    <references xmi:type="uml:Package" href="Ventas%20y%20Gestion%20de%20Clientes1.efx#_0sBgcEedEeepBY9POkD-FQ?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Ventas%20y%20Gestion%20de%20Clientes?"/>
   </eAnnotations>
   <eAnnotations xmi:id="_eNrQwEYAEeeFnajgXlaqvg" source="com.ibm.xtools.uml.msl.fragmentContainer">
     <references xmi:type="uml:Package" href="Artefactos.efx#_TLMj0ETZEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos?"/>
@@ -24,8 +27,11 @@
   <packagedElement xmi:type="uml:Package" href="Canales.efx#_aQCDEETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales?"/>
   <packagedElement xmi:type="uml:Package" href="Pagos.efx#_LTZu4ETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Pagos?"/>
   <packagedElement xmi:type="uml:Package" href="Servicios%20de%20Soporte.efx#_YSO80ETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Servicios%20de%20Soporte?"/>
-  <packagedElement xmi:type="uml:Package" href="Administración%20de%20Productos.efx#_Zz2gkETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Administración%20de%20Productos?"/>
   <packagedElement xmi:type="uml:Package" href="Servicios%20de%20Soporte%20TI.efx#_doi6METeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Servicios%20de%20Soporte%20TI?"/>
   <packagedElement xmi:type="uml:Package" href="Servicios%20Externos.efx#_fwnZ8ETeEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Servicios%20Externos?"/>
   <packagedElement xmi:type="uml:Package" href="Financieros%20Contabilidad.efx#_L6lXQEYpEeeFnajgXlaqvg?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Financieros%20Contabilidad?"/>
+  <packagedElement xmi:type="uml:Package" href="Ventas%20y%20Gestion%20de%20Clientes1.efx#_0sBgcEedEeepBY9POkD-FQ?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Ventas%20y%20Gestion%20de%20Clientes?"/>
+  <packagedElement xmi:type="uml:Package" href="Gestion%20de%20Riesgo,%20Fraude%20y%20Auditoria1.efx#_5rQakEedEeepBY9POkD-FQ?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Gestion%20de%20Riesgo,%20Fraude%20y%20Auditoria?"/>
+  <packagedElement xmi:type="uml:Package" href="Gestion%20y%20Cumplimiento%20Regulatorio1.efx#_-aKZsEedEeepBY9POkD-FQ?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Gestion%20y%20Cumplimiento%20Regulatorio?"/>
+  <packagedElement xmi:type="uml:Package" href="Administracion%20de%20Productos1.efx#_KwKGAEeeEeepBY9POkD-FQ?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Administracion%20de%20Productos?"/>
 </uml:Package>

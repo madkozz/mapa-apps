@@ -67,6 +67,16 @@
             <element xmi:type="uml:Package" href="Empresas.efx#_2e0NAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/Empresas?"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YTJJgUTjEeeAoKRw5SPXXA" x="192" y="3010" width="3637" height="2133"/>
           </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_a1NokEefEeepBY9POkD-FQ" element="_5LNMEEeeEeepBY9POkD-FQ" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" gradient="15912618, 16777215, 0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_a1NokkefEeepBY9POkD-FQ" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_a1Nok0efEeepBY9POkD-FQ" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_a1NolEefEeepBY9POkD-FQ" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_a1NolUefEeepBY9POkD-FQ" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_a1NolkefEeepBY9POkD-FQ" type="Parent"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_a1Nol0efEeepBY9POkD-FQ" visible="false" type="PackageContents" collapsed="true" canonical="false"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_a1NokUefEeepBY9POkD-FQ" x="8320" y="343" width="3637" height="2259"/>
+          </children>
         </children>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KtRJsUTjEeeAoKRw5SPXXA" x="1143" y="1143" width="12526" height="6958"/>
       </children>
@@ -80,4 +90,14 @@
   <packagedElement xmi:type="uml:Package" href="IVR.efx#_C0jaoETbEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/IVR?"/>
   <packagedElement xmi:type="uml:Package" href="App%20Moviles.efx#_9ZeSAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/App%20Moviles?"/>
   <packagedElement xmi:type="uml:Package" href="Empresas.efx#_2e0NAETaEeeAoKRw5SPXXA?Mapa%20de%20Aplicaciones/Artefactos/Dominios/Canales/Empresas?"/>
+  <packagedElement xmi:type="uml:Package" xmi:id="_5LNMEEeeEeepBY9POkD-FQ" name="AutoSrv POS">
+    <eAnnotations xmi:id="_5LNMEUeeEeepBY9POkD-FQ" source="uml2.diagrams" references="_5LNMEkeeEeepBY9POkD-FQ">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_5LNMEkeeEeepBY9POkD-FQ" type="Freeform" name="Main">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+    <eAnnotations xmi:id="_7AMXwEeeEeepBY9POkD-FQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <details xmi:id="_7AMXwUeeEeepBY9POkD-FQ" key="sistema"/>
+    </eAnnotations>
+  </packagedElement>
 </uml:Package>
